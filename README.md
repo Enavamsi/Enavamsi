@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and robotics
   
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ISRO
+- 
 - 📫 How to reach me enavamsi99@gmail.com
 
 <!---
